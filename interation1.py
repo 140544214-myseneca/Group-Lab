@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+
+"""
+Group Project
+Student: Parth Patel , Dhruv Patel
+Student Number: 140544214 , 164386211
+"""
+
 import random
 
 def get_user_choice():
