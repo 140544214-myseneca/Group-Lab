@@ -11,4 +11,5 @@ a. instructions
 b.	Clearly identify each person’s role who developed the game
 
   1.Parth Patel - project cordinator
-  2. Dhruv Patel - project manager
+  
+   2. Dhruv Patel - project manager
